@@ -1,1 +1,4 @@
 *.pkl
+*.csv
+data_roi
+test
